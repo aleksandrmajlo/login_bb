@@ -1,0 +1,68 @@
+{
+
+    "Cart1":"Найменування",
+    "Cart2":"Кіл-ть",
+    "Cart3":"Ціна",
+    "Cart4":"Разом",
+    "Cart5":"Недостатньо товарів на складі!",
+    "Cart6":"Вказано",
+    "ClearorderModal":"Очистити замовлення?",
+    "ClearorderModalYes":"Так",
+    "ClearorderModalNot":"Ні",
+    "PayModal":"Виберіть спосіб оплати",
+    "PayModalPrice":"Разом",
+    "PayModalDiscount":"Знижка",
+    "PayModalTotal":"До оплати",
+    "PayModalPrint":"Друкувати чек?",
+    "PayModalPay":"Заплатити",
+    "PayModalComment":"Сума округляється згідно з постановою НБУ № 25",
+    
+    "PayModalNal":"Готівкою",
+    "CartModalPay":"Карткою",
+    "SertModalPay":"Сертифікатом",
+
+
+
+    "SmsModal":"Введіть Ваш номер телефону для отримання знижки",
+    "SmsModalSMS":"Надіслати код по смс",
+    "SmsModalBell":"Надіслати код дзвінком",
+    "SmsModalPhone":"Введіть номер телефону з 0, без +38",
+    "SmsCode":"Введіть Ваш код для отримання знижки",
+    "SmsCodeButton":"Отримати знижку",
+    "SmsCodeErrorEnter":"Код невірний",
+    "SmsCodeError":"Вкажіть клієнта",
+
+
+    "error":"Помилка !!! Спробуйте пізніше повторити.",
+    "client": "Клієнт",
+    "worker": "Співробітник",
+    "data_start": "Дата і час відкриття",
+    "data_end": "Дата і час закриття",
+    "summa": "Сума",
+    "comment": "Примітки",
+    "save": "Зберегти",
+    "cancel": "Відміна",
+    "success_order":"Замовлення збережено",
+    "suc_save":"Йде збереження, почекайте!!",
+    "table_print":"друк чека",
+    "booking_save":"Броню збережено",
+    "booking_add":"Броню додано",
+    "booking_error": "Заповніть необхідні поля (стіл, дата, час, cтатус, телефон)",
+    "booking_error_email":"Вкажіть коректний email",
+    "booking_er":"Необхідно вибраних бронь зі списку",
+
+    "change_info":"Перевірьте дані",
+    "change_send":"Надсилання",
+    "open_change_error":"Необхідно відкрити зміну",
+
+    "table_add_send":"Надсилання ...",
+
+    "login_phone":"Номер телефону",
+    "login_phone_plac":"Введіть ваш номер телефону з 0",
+
+    "login_code":"Введіть код",
+    "login_enter":"Увійти",
+    "notUserLogin":"Користувач не знайдений",
+    "print":"Друк"
+
+}
